@@ -1,0 +1,14 @@
+*.1CD
+*.CD
+*.dt
+*.cf
+*.cfe
+ConfigDumpInfo.xml
+
+ParentConfigurations.bin
+ParentConfigurations/
+
+.metadata/
+.settings/
+bin/
+*.tmp
